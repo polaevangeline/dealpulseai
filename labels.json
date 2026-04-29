@@ -1,0 +1,27 @@
+{
+  "stages": {
+    "0": "Prospecting",
+    "1": "Engaging",
+    "2": "Won",
+    "3": "Lost"
+  },
+  "stage_to_id": {
+    "Prospecting": 0,
+    "Engaging": 1,
+    "Won": 2,
+    "Lost": 3
+  },
+  "num_classes": 4,
+  "descriptions": {
+    "Prospecting": "Initial contact, lead identified",
+    "Engaging": "Actively engaging with client",
+    "Won": "Deal closed successfully",
+    "Lost": "Deal lost or abandoned"
+  },
+  "colors": {
+    "Prospecting": "#6366f1",
+    "Engaging": "#f59e0b",
+    "Won": "#10b981",
+    "Lost": "#ef4444"
+  }
+}
